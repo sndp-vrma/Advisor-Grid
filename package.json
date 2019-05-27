@@ -1,0 +1,31 @@
+{
+  "name": "interview-question",
+  "version": "1.0.0",
+  "description": "A simple React, Redux interview question",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "1.5.1",
+    "axios": "0.18.0",
+    "faker": "^4.1.0",
+    "lodash": "4.17.10",
+    "match-sorter": "2.2.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "react-table": "6.8.6",
+    "redux": "4.0.0",
+    "redux-form": "7.4.2",
+    "redux-saga": "0.16.0",
+    "reselect": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
